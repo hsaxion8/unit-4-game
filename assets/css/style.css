@@ -1,0 +1,90 @@
+.instruction {
+	border: 2px solid darkblue;
+	padding: 2%;
+	background-color: lightblue; 
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: red;
+    opacity: 0.8; 
+}
+
+.randomNumber {
+	border: 2px solid darkblue;
+	padding: 3%;
+	background-color: lightblue; 
+	opacity: 0.8; 
+	color: red;
+	font-size: 200%; 
+
+}
+
+.totalWL { 
+	border: 2px solid darkblue;
+	padding: 2%; 
+	background-color: lightblue; 
+	opacity: 0.8; 
+	
+ }
+
+ .totalScore {
+ 	border: 4px solid darkblue; 
+ 	background-color: lightblue; 
+	opacity: 0.8; 
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+
+ }
+
+ .scoreDisplay {
+ 	border: 2px solid darkblue;
+	padding: 3%; 
+	background-color: lightblue; 
+	opacity: 0.8; 
+	color: red;
+    font-size: 22px;
+    font-weight: bold;
+	
+ }
+ p {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+     font-size: 22px;
+ }
+
+ body {
+     background-image: url("https://images6.alphacoders.com/331/thumb-1920-331566.jpg");
+     height: 100%;
+     width: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+ }
+
+ h1 { 
+    color: red;
+    font-weight: bolder;
+    font-size: 46px; 
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+    color: red;
+    font-size: 22px;
+  }
+#bluegem {
+    height: 200px;
+    width: 200px;
+}
+#greengem {
+    height: 200px;
+    width: 200px;
+}
+#pinkgem {
+    height: 200px;
+    width: 200px;
+}
+#redgem {
+    height: 200px;
+    width: 200px;
+}
